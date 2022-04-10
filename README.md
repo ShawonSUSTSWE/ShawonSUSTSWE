@@ -1,4 +1,4 @@
-# Hello WORLD!! <img align="center"  width="60" alt="gif" src="https://https://github.com/ShawonSUSTSWE/ShawonSUSTSWE/blob/main/hacker-man-hacker.gif /">
+# Hello WORLD!! <img align="center"  width="60" alt="gif" src="https://github.com/ShawonSUSTSWE/ShawonSUSTSWE/blob/main/hacker-man-hacker.gif /">
   
 I am Mohammed Mazhar Ali Shawon. I'm Currently Studying Software Engineering at Shahjalal University of Science & Technology, Sylhet. Since I was little I was always fascinated by Computers. I played games on my computer since I was 5. I watched movies about hackers being cool in the movies and wanted to be in IT sector. Never thought in my life that I would actually get to study Software Enginnering when I grew up.
 
