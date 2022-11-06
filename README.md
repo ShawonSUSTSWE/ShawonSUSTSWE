@@ -1,6 +1,6 @@
 # Assalamu Alaikum!!
 
-I am Mohammed Mazhar Ali Shawon. I'm Currently Studying Software Engineering at Shahjalal University of Science & Technology, Sylhet. Since I was little I was always fascinated by Computers. So, It is almost like a dream come true when I got to study Software Engineering.
+I am Mohammed Mazhar Ali Shawon. I'm Currently Studying Software Engineering at Shahjalal University of Science & Technology, Sylhet. Since I was little I was always fascinated by Computers. So, It is almost like a dream come true when I got to study Software Engineering. I am interested in Cyber Security and AI
 
 <!--
 **ShawonSUSTSWE/ShawonSUSTSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
